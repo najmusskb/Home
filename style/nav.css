@@ -1,0 +1,23 @@
+nav li {
+
+    padding: 10px;
+
+    list-style: none;
+    margin-right: 20px;
+    font-size: 20px;
+
+}
+
+nav li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav li :hover {
+
+    background-color: green;
+}
